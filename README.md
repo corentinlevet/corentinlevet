@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ In my third year
+- ⚡ In my fifth (and last) year
 - ✨ You can find here most of my projects. 
 - 📫 How to reach me: Twitter : @_coconoute
 
@@ -18,13 +18,9 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/corentinlevet/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=corentinlevet&show_icons=true&theme=codeSTACKr&border=ff652f" />
-    </a>
     <a href="https://github.com/corentinlevet/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=corentinlevet&show_icons=true&theme=codeSTACKr&border_color=ff652f" />
     </a>
-
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
